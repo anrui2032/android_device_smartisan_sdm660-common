@@ -475,7 +475,6 @@ vendor/bin/hvdcp_opti
 -priv-app/CNEService/CNEService.apk
 etc/permissions/cneapiclient.xml
 etc/permissions/com.quicinc.cne.xml
-etc/permissions/privapp-permissions-qti.xml
 framework/cneapiclient.jar
 framework/com.quicinc.cne.api-V1.0-java.jar
 framework/com.quicinc.cne.jar
