@@ -173,6 +173,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.qti.core_ctl_max_cpu=4 \
     ro.vendor.qti.sys.fw.bg_apps_limit=60
 
+# PowerOffAlarm
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.vendor.alarm_boot=true
+
 # Radio
 PRODUCT_PROPERTY_OVERRIDES += \
     telephony.lteOnCdmaDevice=1 \
